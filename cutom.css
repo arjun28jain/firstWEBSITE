@@ -1,0 +1,27 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.action_star {
+
+background: url(set.jpg) no-repeat;
+-webkit-background-size: cover;
+background-size: cover;
+height: 100vh;
+}
+
+.action_wrap {
+
+    color:antiquewhite;
+    position : absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-45%,-55%);
+}
+
+.action_wrap h1{
+
+    font-size: 1.4rem;
+    text-align: center;
+}
+
